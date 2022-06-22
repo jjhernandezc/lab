@@ -18494,6 +18494,14 @@ yx-axis
 	
 }
 
+@media  (max-width: 990px) {
+
+	.thumb-video__image {
+		position: relative !important;
+
+	}
+}
+
 .ocultar2{display: none;}
 
 
